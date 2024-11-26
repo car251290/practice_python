@@ -40,16 +40,5 @@ if __name__ == "__main__":
     result = calc.switch_calc(operation, a, b)
     print(f"The result: {result}")
     
-   # print(calc.sum(2, 3))
-   # print(calc.rest(2, 3))
-   # print(calc.multiplication(2, 3))
-   # print(calc.divide(2, 3))
-#def sum(a, b):
- #   return a + b
-#def rest(a,b):
- #   return a - b
-#def multiplication (a,b):
- #   return a * b
-#def divide(a,b):
- #   return a / b
+
 
